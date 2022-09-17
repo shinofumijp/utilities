@@ -1,0 +1,11 @@
+## Usage
+
+### filter_scrapbox_import_json.sh
+
+filter_scrapbox_import_json.sh scrapbox-output.json title-files
+
+#### Description
+
+You can filter scrapbox output json and can use it as import file
+This script is usefule when you want to create a new Scrapox project
+and you want to migrate some of pages from another existing one.
